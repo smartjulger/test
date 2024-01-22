@@ -2,28 +2,33 @@ body {
     background-color: #DEE6E9;
 }
 
-nav{
+nav {
     padding-top: 20px;
+    display: flex;
+    text-align: center;
 }
 
 
-li{display: flex;
-float: left;
+li {
+    display: flex;
+    float:left;
 }
 
-a{
+a {
     display: block;
     padding: 8px;
 }
 
-main{
+main {
     padding-top: 100px;
     padding-left: 20px;
     padding-right: 20px;
 }
-h2{
+
+h2 {
     text-align: center;
 }
-p{
+
+p {
     text-align: center;
 }
