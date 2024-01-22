@@ -4,22 +4,23 @@ body {
 
 nav {
     padding-top: 1em;
-    display: flex;
     text-align: center;
+    border-style: inset;
+    border-color: red;
+    display: flex;
 }
 
 
 li {
     display: flex;
-    float:left;
+    float: left;
 }
 
 a {
-    display: block;
-    padding: 1em;
+    padding: 0.5em;
 }
 
-.logo{
+.logo {
     width: 3em;
 
 }
@@ -34,15 +35,35 @@ h2 {
     text-align: center;
 }
 
-.banner{
+.banner {
     width: 20em;
+    align-items: center;
 }
 
 p {
     text-align: center;
 }
 
-h3{
+.geschiedenis1{
     text-align: center;
-    padding-top: 30px;
+    padding-top: 2em;
+}
+
+.geschiedenis{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+
+/* pagina duurzaam*/
+.duurzaam{
+    width: 20em;
+}
+h3{
+    padding-top: 0.2em;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
 }
