@@ -44,26 +44,27 @@ p {
     text-align: center;
 }
 
-.geschiedenis1{
+.geschiedenis1 {
     text-align: center;
     padding-top: 2em;
 }
 
-.geschiedenis{
+.geschiedenis {
     padding-top: 1em;
     padding-bottom: 1em;
 }
 
 
 /* pagina duurzaam*/
-.duurzaam{
+.duurzaam {
     width: 20em;
 }
-h3{
+
+h3 {
     padding-top: 0.2em;
     text-align: center;
 }
 
-h4{
+h4 {
     text-align: center;
 }
