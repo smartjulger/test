@@ -54,6 +54,7 @@ p {
 .geschiedenis {
     padding-top: 1em;
     padding-bottom: 1em;
+    width: 6em;
 }
 
 p{
@@ -94,4 +95,14 @@ h4 {
 /*katten*/
 .katten{
     width: 20em;
+}
+.kat{
+    border-style: inset;
+    background-color: #23518C;
+}
+
+footer{
+    width: 20em;
+    height: 2em;
+    margin-top: 5em;
 }
