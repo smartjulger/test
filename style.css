@@ -16,7 +16,7 @@ nav {
 li {
     display: flex;
     float: left;
-    
+
 }
 
 a {
@@ -63,7 +63,7 @@ p {
     width: 6em;
 }
 
-p{
+p {
     font-family: fantasy;
 }
 
@@ -82,33 +82,35 @@ h4 {
     text-align: center;
 }
 
-.terug{
+.terug {
     width: 2em;
 }
 
 /*duurzaam sub*/
 
 
-.buildertext{
+.buildertext {
     display: block;
     justify-content: right;
 }
-.builder{
+
+.builder {
     width: 6em;
 }
 
 
 /*katten*/
-.katten{
+.katten {
     width: 20em;
 }
-.kat{
+
+.kat {
     border-style: inset;
     background-color: #23518C;
 
 }
 
-footer{
+footer {
     width: 20em;
     height: 2em;
     margin-top: 5em;
