@@ -8,17 +8,23 @@ nav {
     border-style: inset;
     border-color: red;
     display: flex;
+    background-color: #BFB8AE;
+    border-radius: 10em;
 }
 
 
 li {
     display: flex;
     float: left;
-    text-decoration: red;
+    
 }
 
 a {
     padding: 0.5em;
+    color: red;
+    border-style: inset;
+    background-color: #DEE6E9;
+    border-radius: 5em;
 
 }
 
