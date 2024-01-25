@@ -105,6 +105,7 @@ h4 {
 .kat{
     border-style: inset;
     background-color: #23518C;
+    border-radius: 5em;
 }
 
 footer{
