@@ -8,6 +8,7 @@ nav {
     border-style: inset;
     border-color: red;
     display: flex;
+    color: skyblue;
 }
 
 
@@ -67,4 +68,25 @@ h3 {
 
 h4 {
     text-align: center;
+}
+
+.terug{
+    width: 2em;
+}
+
+/*duurzaam sub*/
+
+
+.buildertext{
+    display: block;
+    justify-content: right;
+}
+.builder{
+    width: 6em;
+}
+
+
+/*katten*/
+.katten{
+    width: 20em;
 }
