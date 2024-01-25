@@ -8,17 +8,18 @@ nav {
     border-style: inset;
     border-color: red;
     display: flex;
-    color: skyblue;
 }
 
 
 li {
     display: flex;
     float: left;
+    text-decoration: red;
 }
 
 a {
     padding: 0.5em;
+
 }
 
 .logo {
@@ -53,6 +54,10 @@ p {
 .geschiedenis {
     padding-top: 1em;
     padding-bottom: 1em;
+}
+
+p{
+    font-family: fantasy;
 }
 
 
